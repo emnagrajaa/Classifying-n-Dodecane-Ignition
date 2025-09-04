@@ -28,4 +28,4 @@ For a deeper understanding of n-dodecane's combustion characteristics, consider 
 - **Title**: An experimental study of n-dodecane and the development of an improved kinetic model
 - **Authors:** Yebing Mao, Mohsin Raza, Zhiyong Wu, Jizhen Zhu, et al.
 - **Published In:** Combustion and Flame, 2020
-- **DOI:** [10.1016/j.combustflame.2019.11.014]
+- **DOI:** [link](10.1016/j.combustflame.2019.11.014)
